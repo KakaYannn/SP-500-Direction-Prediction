@@ -1,4 +1,4 @@
-COMP90051 Project - How to Run This Notebook
+How to Run This Notebook
 
 Follow these steps to run the pipeline:
 
